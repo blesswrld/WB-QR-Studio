@@ -1,0 +1,6 @@
+{
+  "name": "WB-QR Studio",
+  "description": "SaaS-конструктор конверсионных QR-вкладышей, визиток и термоэтикеток 300 DPI для продавцов Wildberries и Ozon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
